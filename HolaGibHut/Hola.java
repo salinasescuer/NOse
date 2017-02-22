@@ -8,7 +8,7 @@ public class Hola
 	 */
 	public static void main(String[] args) 
 	{
-		System.out
+		System.out.println("HOla");
 	}
 
 }
